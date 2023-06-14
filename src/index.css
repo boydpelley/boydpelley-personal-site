@@ -1,0 +1,21 @@
+@font-face {
+  font-family: Roboto-Slab;
+  src: url("./assets/fonts/RobotoSlab-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: Hanken-Grotesk;
+  src: url("./assets/fonts/HankenGrotesk-VariableFont_wght.ttf");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+
+  background-color: #f0f0f0;
+}
+
+* {
+  font-family: Roboto-Slab;
+  color: #131313;
+}
