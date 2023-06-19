@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/weather/{album}": {
+      "name": "/weather/{album}",
+      "lambdaFunction": "WeatherHandler",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

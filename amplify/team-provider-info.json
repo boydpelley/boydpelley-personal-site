@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-boydpelleypersonalsi-dev-145811-authRole",
+      "UnauthRoleArn": "arn:aws:iam::491430469729:role/amplify-boydpelleypersonalsi-dev-145811-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::491430469729:role/amplify-boydpelleypersonalsi-dev-145811-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-boydpelleypersonalsi-dev-145811-deployment",
+      "UnauthRoleName": "amplify-boydpelleypersonalsi-dev-145811-unauthRole",
+      "StackName": "amplify-boydpelleypersonalsi-dev-145811",
+      "StackId": "arn:aws:cloudformation:ca-central-1:491430469729:stack/amplify-boydpelleypersonalsi-dev-145811/84d0cc30-0d38-11ee-8bf5-0693be526602",
+      "AmplifyAppId": "d345qp8tz6vuwz"
+    },
+    "categories": {
+      "function": {
+        "WeatherHandler": {}
+      }
+    }
+  }
+}
